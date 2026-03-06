@@ -1,4 +1,4 @@
-\# GestãoCursos API — Sistema de Gerenciamento de Cursos
+# GestãoCursos API — Sistema de Gerenciamento de Cursos
 
 
 
